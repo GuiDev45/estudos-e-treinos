@@ -13,6 +13,7 @@
 - **Nível 6: Métodos**
 
 ## Java Coding Problems
-> Fonte dos exercícios - Livro - Java Coding Problems - Anghel Leonard.
+> Fonte dos exercícios - Livro - Java Coding Problems. 
+> Autor - Anghel Leonard.
 
 ### Em breve... :construction:
