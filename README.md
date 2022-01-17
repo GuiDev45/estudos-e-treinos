@@ -1,6 +1,7 @@
 # Repositório para exercícios e treinos  
 
 ## Lista com 64 exercícios
+> Fonte dos exercícios UNIP – Ciência da Computação/Sistema de Informação - 2010.
 
 ### Resolvidos em - Java :coffee:
 
