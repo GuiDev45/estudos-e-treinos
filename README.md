@@ -13,4 +13,4 @@
 
 ## Estrutura de dados
 
-### Em breve.. :construction:
+### Em breve... :construction:
