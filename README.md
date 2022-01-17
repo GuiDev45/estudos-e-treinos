@@ -1,7 +1,7 @@
 # Repositório para exercícios e treinos  
 
 ## Lista com 64 exercícios
-> Fonte dos exercícios - UNIP Ciência da Computação/Sistema de Informação - 2010.
+> Fonte dos exercícios - UNIP - Ciência da Computação/Sistema de Informação - 2010.
 
 ### Resolvidos em - Java :coffee:
 
@@ -13,6 +13,6 @@
 - **Nível 6: Métodos**
 
 ## Java Coding Problems
-> Fonte dos exercícios - Livro Java Coding Problems do Anghel Leonard.
+> Fonte dos exercícios - Livro - Java Coding Problems do Anghel Leonard.
 
 ### Em breve... :construction:
