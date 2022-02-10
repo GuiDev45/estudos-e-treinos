@@ -11,6 +11,14 @@
 - **Nível 4: Estruturas de Repetição**
 - **Nível 5: Vetores e Matrizes**
 - **Nível 6: Métodos**
+- **https://github.com/GuiDev45/estudos-e-treinos/tree/master/Lista-com-64-exercicios**
+
+## Exercícios com Listas em Python
+> Fonte dos exercícios - https://wiki.python.org.br/ExerciciosListas
+
+### Resolvidos em - Java :coffee:
+
+- **https://github.com/GuiDev45/estudos-e-treinos/tree/master/Exercicios-com-listas**
 
 ## Java Coding Problems
 > Fonte dos exercícios - Livro - Java Coding Problems - Autor - Anghel Leonard.
