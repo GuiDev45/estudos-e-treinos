@@ -1,6 +1,6 @@
 # Repositório para exercícios e treinos  
 
-## Lista com 64 exercícios
+## Lista com 40 exercícios
 > Fonte dos exercícios - Curso Web Moderno Completo com JavaScript 2022 + Projetos
 ### Em andamento :construction:
 
