@@ -1,5 +1,9 @@
 # Repositório para exercícios e treinos  
 
+## Lista com 40 exercícios
+> Fonte dos exercícios - Curso Web Moderno Completo com JavaScript 2022 + Projetos
+### Em andamento :construction:
+
 ## Lista com 64 exercícios
 > Fonte dos exercícios - UNIP - Ciência da Computação/Sistema de Informação - 2010.
 
@@ -19,8 +23,3 @@
 ### Resolvidos em - Java :coffee:
 
 - **https://github.com/GuiDev45/estudos-e-treinos/tree/master/Exercicios-com-listas**
-
-## Java Coding Problems
-> Fonte dos exercícios - Livro - Java Coding Problems - Autor - Anghel Leonard.
-
-### Em breve... :construction:
