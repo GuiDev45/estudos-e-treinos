@@ -1,8 +1,12 @@
 # Repositório para exercícios e treinos  
 
+## Lista com exercícios diversos
+> Fonte dos exercícios - Internet em geral.
+### Em andamento :construction:
+
 ## Lista com 68 exercícios
 > Fonte dos exercícios - Curso Web Moderno Completo com JavaScript 2022 + Projetos
-### Em andamento :construction:
+### Resolvidos em - JavaScript.
 
 ## Lista com 64 exercícios
 > Fonte dos exercícios - UNIP - Ciência da Computação/Sistema de Informação - 2010.
