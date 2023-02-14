@@ -8,6 +8,8 @@
 > Fonte dos exercícios - Curso Web Moderno Completo com JavaScript 2022 + Projetos
 ### Resolvidos em - JavaScript.
 
+- **https://github.com/GuiDev45/estudos-e-treinos/tree/master/Lista-exercicios-Cod3r**
+
 ## Lista com 64 exercícios
 > Fonte dos exercícios - UNIP - Ciência da Computação/Sistema de Informação - 2010.
 
